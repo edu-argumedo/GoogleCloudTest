@@ -94,7 +94,7 @@
 				<version>2.2.0</version>
 				<configuration>
 					<version>1</version>
-					<projectId>GCLOUDCONFIG</projectId>
+					<projectId>cst323awsproject</projectId>
 				</configuration>
 			</plugin>
 		</plugins>
